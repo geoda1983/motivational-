@@ -1,0 +1,7 @@
+{
+  "name": "AI Motivator",
+  "description": "AI-powered motivator delivering contextual quotes, inspirational stories, frequency nudges, and mission-passed celebrations for up to 5 goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
